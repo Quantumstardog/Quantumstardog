@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Quantumstardog
+- 👋 Hi, I’m Miguel Roca
 - 👀 I’m interested in Numericals methods to solve many variables equations, dynamical systems modeling, stochastic processes and information theory.
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning Monte-carlo simulations for many particles physical systems
 - 💞️ I’m looking to collaborate ... on anything related to computational physics!
 - 📫 How to reach me ... @me on Linkedin
 
